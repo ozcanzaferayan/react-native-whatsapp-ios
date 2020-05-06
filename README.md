@@ -4,4 +4,4 @@ IOS WhatsApp Clone with React Native
 
 # Screenshots
 
-![Screenshot](https://github.com/ozcanzaferayan/react-native-whatsapp-miosaterial/blob/master/art/screenshot.png "Screenshot")
+![Screenshot](https://github.com/ozcanzaferayan/react-native-whatsapp-ios/blob/master/art/screenshot.png "Screenshot")
